@@ -1,6 +1,6 @@
-##terminal command
-# hidden files， need restart computer
-defaults write com.apple.finder AppleShowAllFiles -bool false
+#terminal command
+## hidden files， need restart computer
+defaults write com.apple.finder AppleShowAllFiles -bool false/
 defaults write com.apple.finder AppleShowAllFiles -bool ture
 
 
@@ -13,7 +13,9 @@ cd /Users/Moli/Documents
 git clone git@github.com:nirdong/MachineLearning.git
 
 # upload 
-cd /Users/Moli/Desktop/learnGit
+cd /Users/Moli/Documents/MachineLearning
 git add .
 git commit -m "First Commit"
 git push
+
+
