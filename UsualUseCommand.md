@@ -1,5 +1,5 @@
 # terminal
-## hidden files， need restart computer
+## hidden files，need restart computer
 defaults write com.apple.finder AppleShowAllFiles -bool false
 
 defaults write com.apple.finder AppleShowAllFiles -bool ture
