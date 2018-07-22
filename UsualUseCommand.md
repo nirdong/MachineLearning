@@ -1,11 +1,11 @@
-# terminal
+# 1.terminal
 ## hidden files，need restart computer
 defaults write com.apple.finder AppleShowAllFiles -bool false <br>
 defaults write com.apple.finder AppleShowAllFiles -bool ture <br>
 pip install <br>
 pip3 install 
 
-# git
+# 2.git
 ## new repoistory
 cd /Users/Moli/Documents<br>
 git clone git@github.com:nirdong/MachineLearning.git
