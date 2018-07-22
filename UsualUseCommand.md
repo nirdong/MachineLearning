@@ -1,7 +1,6 @@
 # terminal
 ## hidden files，need restart computer
-defaults write com.apple.finder AppleShowAllFiles -bool false
-
+defaults write com.apple.finder AppleShowAllFiles -bool false <br>
 defaults write com.apple.finder AppleShowAllFiles -bool ture
 
 
@@ -23,5 +22,12 @@ git add .
 git commit -m "First Commit"
 
 git push
+
+
+
+
+
+
+
 
 
