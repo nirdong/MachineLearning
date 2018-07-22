@@ -1,21 +1,22 @@
-## usual command
+## Usual Command
 
 
-##terminal
+# terminal
 ## hidden files， need restart computer
 defaults write com.apple.finder AppleShowAllFiles -bool false/
+
 defaults write com.apple.finder AppleShowAllFiles -bool ture
 
 
 
 
 
-## git
-# new repoistory
+# git
+#new repoistory
 cd /Users/Moli/Documents
 git clone git@github.com:nirdong/MachineLearning.git
 
-# upload 
+#upload 
 cd /Users/Moli/Documents/MachineLearning
 git add .
 git commit -m "First Commit"
