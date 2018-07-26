@@ -16,6 +16,17 @@ git commit -m "First Commit"<br>
 git push
 
 
+# 3.mysql
+## load .sql from terminal
+/usr/local/mysql/bin/mysql -uroot -p<br>
+create database newntwd;<br>
+use newntwd;<br>
+show tables;<br>
+source /Users/Moli/Documents/mysqldata/NorthwindDB.sql;<br>
+show databases;<br>
+show tables;
+
+
 
 
 
