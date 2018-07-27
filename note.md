@@ -5,14 +5,7 @@ defaults write com.apple.finder AppleShowAllFiles -bool ture <br>
 pip install <br>
 pip3 install 
 
-# 2.md
-*https://www.cnblogs.com/unclejelly/p/4082085.html
-* 昵称：果冻虾仁
-* 别名：隔壁老王
-* 英文名：Jelly
-
-
-# 3.git
+# 2.git
 ## new repoistory
 cd /Users/Moli/Documents<br>
 git clone git@github.com:nirdong/MachineLearning.git
@@ -22,7 +15,8 @@ git add .<br>
 git commit -m "First Commit"<br>
 git push
 
-# 4.mysql
+
+# 3.mysql
 ## load .sql from  MySQLWorkbench 
 https://blog.csdn.net/u012372661/article/details/52933212
 一 点击local instance wampmysqld
