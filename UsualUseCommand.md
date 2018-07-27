@@ -6,7 +6,9 @@ pip install <br>
 pip3 install 
 
 # 2.md
-*https://www.cnblogs.com/unclejelly/p/4082085.html
+
+md  语法链接
+https://github.com/guodongxiaren/README/blob/master/README.md
 * 昵称：果冻虾仁
 * 别名：隔壁老王
 * 英文名：Jelly
