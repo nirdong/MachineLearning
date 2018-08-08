@@ -47,6 +47,12 @@ https://blog.csdn.net/u012372661/article/details/52933212
 
 若sql文件中已经使用了use 数据库名字 ，可直接打开sql script 然后直接运行。
 
+# 5.python
+##设置显示最大行
+pd.set_option('display.max_rows', None) 
+
+
+
 
 
 
