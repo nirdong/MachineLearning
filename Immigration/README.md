@@ -19,6 +19,10 @@ http://me.rrc.mb.ca/Catalogue/Programs.aspx?DeliveryCode=F<br>
 
 ### Manitoba institute of trades & technology
 
+#### Programs: Software Developer
+
+http://mitt.ca/programs/post-secondary-programs/1759/software-developer
+
 #### Admissions
 
 http://mitt.ca/admissions<br>
@@ -34,6 +38,15 @@ http://mitt.ca/current-students/international-student-health-insurance<br>
 #### International
 
 http://mitt.ca/international<br>
+
+
+###  温尼伯站
+https://www.chinesewinnipeg.net/forum-54-1.html<br>
+
+### 曼尼托巴华人社区中心
+http://www.manitobachinese.ca/<br>
+
+
 
 
 
