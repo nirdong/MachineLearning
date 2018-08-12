@@ -10,29 +10,29 @@ https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications
 ## MPNP = Make Provincial Nominee Program 
 
 
-## IES = International Education Stream
+# IES = International Education Stream
 
 https://www.immigratemanitoba.com/immigrate-to-manitoba/mpnp-renewal/international-education/#1<br>
 
-## Red river college
+# Red river college
 
 http://me.rrc.mb.ca/Catalogue/Programs.aspx?DeliveryCode=F<br>
 
-## Manitoba institute of trades & technology
+# Manitoba institute of trades & technology
 
-# Admissions
+## Admissions
 
 http://mitt.ca/admissions<br>
 
-# Tuition and Fees
+## Tuition and Fees
 
 http://mitt.ca/admissions/tuition-fees<br>
 
-# International Student Health Insurance
+## International Student Health Insurance
 
 http://mitt.ca/current-students/international-student-health-insurance<br>
 
-# International
+## International
 
 http://mitt.ca/international<br>
 
