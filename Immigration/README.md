@@ -1,7 +1,8 @@
 ### <font color=red> Homepage of Immigrate Manitoba </font>
-<span style=“color:green;”> text goes here</span>
-https://www.immigratemanitoba.com/<br>
+<span style=“color:green;”> text goes here</span><br>
 
+https://www.immigratemanitoba.com/<br>
+<span style=“color:red;”> text </span>
 MPNP = Make Provincial Nominee Program<br>
 
 
