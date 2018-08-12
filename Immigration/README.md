@@ -2,3 +2,6 @@
 
 https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/language-requirements/test-equivalency-charts.html<br>
 
+##MPNP = Make Provincial Nominee Program 
+
+
