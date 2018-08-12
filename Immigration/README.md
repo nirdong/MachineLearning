@@ -1,11 +1,11 @@
 ### <font color=red> Homepage of Immigrate Manitoba </font>
 <span style=“color:green;”> text goes here</span><br>
-
+<h2> 
 https://www.immigratemanitoba.com/<br>
 <span style=“color:red;”> text </span>
 MPNP = Make Provincial Nominee Program<br>
 
-
+<span style="color:blue">some *blue* text</span>
 
 ### CLB level(Canandian Language Benchmars) = IELTS(International English Language Testing System)
 
