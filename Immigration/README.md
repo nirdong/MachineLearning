@@ -1,6 +1,10 @@
 ### <font color=red> Homepage of Immigrate Manitoba </font>
 <span style=“color:green;”> text goes here</span><br>
-<h2> ‘’‘diff -red'''  <h2>
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+'''
+
 https://www.immigratemanitoba.com/<br>
 <span style=“color:red;”> text </span>
 MPNP = Make Provincial Nominee Program<br>
