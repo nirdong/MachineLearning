@@ -2,6 +2,9 @@
 
 https://www.immigratemanitoba.com/<br>
 
+MPNP = Make Provincial Nominee Program<br>
+
+
 
 ### CLB level(Canandian Language Benchmars) = IELTS(International English Language Testing System)
 
