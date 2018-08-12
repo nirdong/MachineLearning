@@ -20,7 +20,7 @@ http://me.rrc.mb.ca/Catalogue/Programs.aspx?DeliveryCode=F<br>
 
 # Manitoba institute of trades & technology
 
-## Admissions
+### Admissions
 
 http://mitt.ca/admissions<br>
 
