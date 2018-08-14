@@ -3,7 +3,7 @@
 https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation.html
 
 
-### English Language Proficiency
+### English Language Proficiency for master degree
 
 TOEFL - Achieve a minimum Internet-based -iBT (86; minimum score of 20 in each of reading, writing, listening and speaking categories)
 
