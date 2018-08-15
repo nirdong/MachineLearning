@@ -1,3 +1,31 @@
+### university in ontario
+
+https://www.ontario.ca/page/ontario-universities
+
+### Stay in Canada after graduation
+
+https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation.html
+
+
+### English Language Proficiency for master degree
+
+TOEFL - Achieve a minimum Internet-based -iBT (86; minimum score of 20 in each of reading, writing, listening and speaking categories)
+
+IELTS - Achieve a minimum score of 6.5 in the Academic Module
+
+### Qestions
+
+1. Do I have to take addimssions tests such as the GRE?
+2. 
+
+
+###
+
+https://en.wikipedia.org/wiki/List_of_universities_in_Canada#Quebec <br>
+
+
+
+
 ### Homepage of Immigrate Manitoba 
 
 https://www.immigratemanitoba.com/<br>
