@@ -12,4 +12,6 @@ zero in on
 
 Unlike aerobics, walking entails no expensive fees for classes or clubs.
 
-The job entails a lot of hard work
+The job entails a lot of hard work.
+
+The method, called Complexity Analysis, entails reading the algorithm and using pencil and paper to work out some simple algebra.
