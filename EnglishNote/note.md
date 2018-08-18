@@ -9,3 +9,7 @@ You can't use these algorithm, and instead you need find others, if they exist, 
 When choosing algorithms, you often have to settle for a space/time trade-off. An algorithm can be designed to gain faster run times at the cost of using extra space(memory) or the other way around. Some users might be willing to pay for more memory to get a faster algorithm, whereas others would rather settle for a slower algorithm that economized on memory.
 
 zero in on
+
+Unlike aerobics, walking entails no expensive fees for classes or clubs.
+
+The job entails a lot of hard work
