@@ -24,3 +24,5 @@ These approaches in turn lead to different space/time trade-offs in the algorith
 The implication took a while to sink in.
 
 Suffice to say, it was more than a couple of years ago!
+
+This description didn't seem to tally with what we saw.
