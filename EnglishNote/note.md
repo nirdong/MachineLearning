@@ -21,4 +21,6 @@ The overhead light was covered now with a white globe.
 These two types of structures take different approaches to storing and accessing data in the computer's memory.
 These approaches in turn lead to different space/time trade-offs in the algorithms that manipulate the collections.
 
+The implication took a while to sink in.
+
 
