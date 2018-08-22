@@ -26,3 +26,5 @@ The implication took a while to sink in.
 Suffice to say, it was more than a couple of years ago!
 
 This description didn't seem to tally with what we saw.
+
+Perfume too seemed to emanate from the glorious hair and white clinging vestments of she herself.
