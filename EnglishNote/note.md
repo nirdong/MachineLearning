@@ -16,4 +16,15 @@ The job entails a lot of hard work.
 
 The method, called Complexity Analysis, entails reading the algorithm and using pencil and paper to work out some simple algebra.
 
-The overhead light was covered now with a white globe
+The overhead light was covered now with a white globe.
+
+These two types of structures take different approaches to storing and accessing data in the computer's memory.
+These approaches in turn lead to different space/time trade-offs in the algorithms that manipulate the collections.
+
+The implication took a while to sink in.
+
+Suffice to say, it was more than a couple of years ago!
+
+This description didn't seem to tally with what we saw.
+
+Perfume too seemed to emanate from the glorious hair and white clinging vestments of she herself.
