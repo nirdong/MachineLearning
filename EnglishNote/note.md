@@ -28,3 +28,19 @@ Suffice to say, it was more than a couple of years ago!
 This description didn't seem to tally with what we saw.
 
 Perfume too seemed to emanate from the glorious hair and white clinging vestments of she herself.
+
+1.
+I'm not like that at all. Not in the least. 
+
+我哪里是那种人。绝对不是。
+
+2.
+Her sudden appearance did not seem to perturb him in the least. 
+
+她的突然出现似乎一点也没有令他不安。
+
+3.
+He didn't seem to mind public opinion in the least. 
+
+他对公众舆论似乎一点都不在乎.
+
