@@ -14,7 +14,9 @@ https://mathstats.info.yorku.ca/gradprogram/ma-program/
 http://www.uwindsor.ca/graduate-studies/334/mathematics-and-statistics
 
 
+### trenut  big data analytics
 
+https://www.trentu.ca/amod/program/big-data-analytics-msc
 
 
 
