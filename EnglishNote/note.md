@@ -148,5 +148,33 @@ A profusion of leaves bursts out on trees in the springtime.
 
 春天许许多多的叶子从树上冒出来.
 
+1.
+His style of painting is reminiscent of Da Vinci's. 
 
+他的绘画风格像达·芬奇。
+
+来自《权威词典》
+
+2.
+There was a sweetish smell,vaguely reminiscent of coffee. 
+
+有一股甜丝丝的气味，使人隐隐觉得像是咖啡。
+
+
+ADJ-GRADED 使人想起的;使人忆起的
+If you say that one thing is reminiscent of another, you mean that it reminds you of it.
+The decor was reminiscent of a municipal arts-and-leisure centre... 
+
+这种布置让人想起都市里的艺术休闲中心。
+
+She bowed her head in a gesture somehow reminiscent of royalty. 
+
+她低头的姿势让人想起皇室风范。
+
+2
+ADJ-GRADED 怀旧的;缅怀过去的
+A reminiscent look or smile is a look or smile which shows that you are remembering something from the past, usually with pleasure.
+A slow, reminiscent smile spread over her face. 
+
+怀旧的微笑慢慢浮现在她脸上。
 
