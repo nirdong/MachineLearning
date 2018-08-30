@@ -44,3 +44,92 @@ He didn't seem to mind public opinion in the least.
 
 他对公众舆论似乎一点都不在乎.
 
+
+
+1.
+Those electing to smoke will be seated at the rear. 
+
+那些想吸烟的人将坐在后排。
+
+2.
+He settled back in the rear of the taxi. 
+
+他靠坐在出租车的后排座上。
+
+3.
+Musicians played at the front and rear of the procession. 
+
+乐师们在队前和队尾表演。
+
+1.
+The sound of sirens was an omnipresent background noise in New York. 
+
+在纽约，警报声是无处不在的背景噪音。
+
+2.
+These days the media are omnipresent. 
+
+现在新闻媒体无处不在。
+
+3.
+The obsessive thoughts became so omnipresent that her memory was affected. 
+
+这些强迫性念头变得无时不在，以至影响到了她的记忆。
+
+
+toolbooth 高速路收费亭
+
+In a priority queue, higher-priority items are poped before those of lower priority.
+
+
+
+ 
+1.
+Sons are traditionally expected to emulate their fathers. 
+
+历来认为儿子会仿效父亲。
+
+2.
+She hopes to emulate her sister's sporting achievements. 
+
+她希望在运动成绩方面赶上她姐姐。
+
+3.
+You must work hard to emulate your sister. 
+
+你必须努力工作,赶上你姐姐.
+
+1.
+Mrs Southern listened keenly, occasionally breaking in with pertinent questions. 
+
+萨瑟恩夫人兴致勃勃地听着，间或插话问一些相关的问题。
+
+2.
+The expert made some pertinent comments on the scheme. 
+
+那专家对规划提出了一些中肯的意见.
+
+3.
+Your remark is not pertinent to the subject. 
+
+你的话不切题.
+
+She had to learn that her wishes did not take precedence over other people's needs. 
+
+她必须懂得，自己的愿望不能先于别人的需要。
+
+2.
+The French kings claimed precedence over those of Spain. 
+
+法国国王提出比西班牙国王享有优先权.
+
+3.
+The guests were seated strictly in order of precedence. 
+
+客人严格按照地位高低就座.
+
+
+Have as much fun as possible at college, but don't let it take precedence over work.
+
+It's best to approach the problem in a sequence of three attempts.
+
