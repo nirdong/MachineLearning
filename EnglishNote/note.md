@@ -133,3 +133,20 @@ Have as much fun as possible at college, but don't let it take precedence over w
 
 It's best to approach the problem in a sequence of three attempts.
 
+1.
+Olive groves, grapes, and citrus fruits grow in profusion. 
+
+橄榄、葡萄和柑橘类水果产量丰富。
+
+2.
+a profusion of colours 
+
+色彩斑斓
+
+3.
+A profusion of leaves bursts out on trees in the springtime. 
+
+春天许许多多的叶子从树上冒出来.
+
+
+
