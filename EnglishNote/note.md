@@ -178,3 +178,18 @@ A slow, reminiscent smile spread over her face.
 
 怀旧的微笑慢慢浮现在她脸上。
 
+.
+The government is trying to replenish supplies by airlifting food. 
+
+政府正试图通过空投食品补充供应。
+
+2.
+There is a concern about replenish-ment of the population. 
+
+有人担心人口的补充问题。
+
+3.
+Three hundred thousand tons of cereals are needed to replenish stocks. 
+
+需要30万吨谷类补充库存。
+
