@@ -1,3 +1,19 @@
+1.
+Nutmeg, parsley and cider all complement the flavour of these beans well. 
+
+肉豆蔻、西芹和苹果酒都能很好地突出这些豆子的味道。
+
+2.
+The rational and the irrational complement each other. Individually, they are far less powerful. 
+
+理性和非理性是互补的。两者分开的话，力量就会小很多。
+
+3.
+Rice makes an excellent complement to a curry dish. 
+
+有咖喱的菜配米饭最棒.
+
+
 Although some of what you learn in computer science comes and goes with changes in technology, the basic priciples of orgnizing collection endure.<br>
 
 upside-down pyramid  = inverted pyramid
