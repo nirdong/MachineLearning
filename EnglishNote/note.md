@@ -1,3 +1,20 @@
+Any expenses you may incur will be chargeable to the company. 
+
+你的所有开销均由本公司支付。
+
+2.
+Any costs that you incur will be reimbursed in full. 
+
+你的所有花费都将全额付还.
+
+3.
+While that option would incur fewer casualties, it would not be militarily effective. 
+
+尽管那种选择造成的伤亡人数可能会更少，却并不能取得军事上的胜利。
+
+
+
+
 1.
 Nutmeg, parsley and cider all complement the flavour of these beans well. 
 
