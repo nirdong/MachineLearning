@@ -95,6 +95,13 @@ Telephone: 705-748-1011
 Admissions: 705-748-1215
 Fax: 705-748-1629
 www.trentu.ca
+
+https://www.trentu.ca/amod/program/admission-requirements
+OEFL (Test of English as a Foreign Language) A minimum score of 580 PBT, 237 CBT with a minimum TWE score of 4.5 or 93 iBT with a minimum score of 22 in both speaking and writing is required.; (Educational Testing Service, Princeton, New Jersey 08540, U.S.A.)
+CAEL (Canadian Academic English Language Test) – alternate test only for applicants who do not have access to TOEFL (Carleton University, Ottawa, Ontario, Canada K1S 5B6). The minimum acceptable score is 60, with at least 60 in Writing Proficiency.
+MELAB (Michigan English Language Assessment Battery). The minimum acceptable score is 85, with no part below 80.
+IELTS Academic (International English language Testing Services). The minimum acceptance score is 6.5, with no band below 6.0.
+
 University of Guelph logo	University of Guelph 
 50 Stone Rd E 
 Guelph ON  N1G 2W1 
