@@ -30,7 +30,7 @@ Rice makes an excellent complement to a curry dish.
 
 有咖喱的菜配米饭最棒.
 
-
+1
 Although some of what you learn in computer science comes and goes with changes in technology, the basic priciples of orgnizing collection endure.<br>
 
 upside-down pyramid  = inverted pyramid
