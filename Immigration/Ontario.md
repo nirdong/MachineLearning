@@ -23,20 +23,8 @@ https://www.math.mcmaster.ca/index.php/graduate-studies/application-procedure.ht
 
 
 
-Nipissing University logo	Nipissing University 
-100 College Dr
-PO Box 5002 
-North Bay ON  P1B 8L7 
-Telephone: 705-474-3450
-Fax: 705-474-1947
-www.nipissingu.ca
-Ontario College of Art logo	OCAD University 
-100 McCaul St 
-Toronto ON  M5T 1W1 
-Telephone: 416-977-6000 
-Admissions: 416-977-6000 ext 4869
-Fax: 416-977-6006
-www.ocadu.ca
+
+
 Queen's University logo	Queen's University 
 99 University Ave
 Kingston ON  K7L 3N6 
@@ -44,6 +32,10 @@ Telephone: 613-533-2000
 Admissions: 613-533-2218
 Fax: 613-533-6810
 http://www.queensu.ca
+
+https://www.queensu.ca/sgs/programs-degrees/mathematics-statistics
+
+
 Royal Military College logo	Royal Military College 
 PO Box 17000 Stn Forces 
 Kingston ON  K7K 7B4 
