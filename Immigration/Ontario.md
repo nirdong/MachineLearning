@@ -109,6 +109,19 @@ Telephone: 519-824-4120
 Admissions: 519-821-2130
 Fax: 519-766-9481
 www.uoguelph.ca
+
+
+https://www.uoguelph.ca/graduatestudies/sites/uoguelph.ca.graduatestudies/files/public/Mathematics%20and%20Statistics_website_AODA.pdf
+est
+Minimum Overal Score
+Canadian Academic English Language Test (CAEL)	70
+International English Language Testing System (Academic) (IELTS)	6.5
+Michigan English Language Assessment Battery (MELAB)	85
+Pearson Test of English Academic (PTE-A)
+Note: A minimum score of 60 must be achieved in each individual component.	60
+Test of English as a Foreign Language (TOEFL Internet-based test (iBT))
+Note: A minimum score of 21 must be achieved in each of the four categories (listening, speaking, reading, writing).	89
+
 University of Hearst logo	University of Hearst
 60 Ninth Street
 Hearst ON P0L 1N0
