@@ -143,6 +143,9 @@ Fax: 416-978-6089
 University of Toronto Mississauga: 905-569-4455 
 University of Toronto Scarborough: 416-287-8872 
 www.utoronto.ca
+
+
+
 University of Waterloo logo	University of Waterloo 
 200 University Ave W 
 Waterloo ON  N2L 3G1 
@@ -150,6 +153,9 @@ Telephone: 519-885-1211
 Admissions: 519-888-4567 ext 33106
 Fax: 519-746-2882
 www.uwaterloo.ca
+https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-statistics
+
+
 University of Windsor logo	University of Windsor 
 401 Sunset Ave 
 Windsor ON  N9B 3P4 
