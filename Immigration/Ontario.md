@@ -6,7 +6,12 @@ http://www.ontarioimmigration.ca/prodconsum/groups/csc/@oipp/documents/document/
 www.carleton.ca
 http://calendar.carleton.ca/grad/gradprograms/mathematics/#admissionmsctext
 
+3.6 Proficiency in English
+Proficiency in English is necessary to pursue graduate studies at Carleton University. All applicants whose first language is not English must satisfy this requirement in one of the following ways:
 
+To present an official overall score of 70 on the Canadian Academic English Language (CAEL) Assessment with a minimum score of 60 in each band; or
+To present an official Test of English as a Foreign Language (TOEFL) score of 580 on the paper-based test (PBT), or an overall score of 86 on the internet-based test (IBT) with a minimum score in each component of: writing-22; speaking-22; reading-20; and listening-20; or
+To present an official overall International English Language Testing System (IELTS) score of 6.5, with a minimum of 6.0 in each band score; or
 
 
 
@@ -34,6 +39,20 @@ Fax: 613-533-6810
 http://www.queensu.ca
 
 https://www.queensu.ca/sgs/programs-degrees/mathematics-statistics
+1. TOEFL Internet-based Test (TOEFL iBT): The minimum overall score is 88, made up of the minimum scores in each component test as follows:
+
+    Writing test: 24/30
+    Speaking test: 22/30
+    Reading test: 22/30
+    Listening test: 20/30
+
+Applicants must have the minimum score in each test, as well as the minimum overall score. Note that some departments/programs have higher minimum TOEFL iBT requirements.
+
+2. MELAB: 80 (minimum overall score)
+
+3. IELTS: 7 (minimum score, academic module)
+
+
 
 
 Royal Military College logo	Royal Military College 
