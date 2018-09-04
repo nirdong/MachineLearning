@@ -24,7 +24,8 @@ Fax: 905-527-1105
 www.mcmaster.ca
 https://www.math.mcmaster.ca/index.php/graduate-studies/application-procedure.html
 
-
+OEFL: minimum score of 92 (internet based), 237 (computer based) or 580 (paper based), minimum of 20 per band; for the Faculty of Engineering a minimum score of 88 (internet based) or 213 on the (computer based) or 550 (paper based)
+IELTS (Academic): minimum overall score of 6.5, with at least 5.5 in each section
 
 
 
@@ -55,13 +56,7 @@ Applicants must have the minimum score in each test, as well as the minimum over
 
 
 
-Royal Military College logo	Royal Military College 
-PO Box 17000 Stn Forces 
-Kingston ON  K7K 7B4 
-Telephone: 613-541-6000 
-Admissions: 613-541-6000 ext 6984 or 6652
-Fax: 613-542-3565
-www.rmc.ca
+
 Ryerson University logo	Ryerson University 
 350 Victoria St 
 Toronto ON  M5B 2K3 
@@ -69,6 +64,30 @@ Telephone: 416-979-5000
 Admissions: 416-979-5036
 Fax: 416-979-5221
 www.ryerson.ca
+https://www.ryerson.ca/graduate/datascience/admission/requirements/
+
+
+Academic Program	TOEFL (IBT)	IELTS- Academic	MELAB	CAEL	PTE
+General Requirement	93	7.0	85	70	63
+Computer Networks	80	6.5	80	 	53
+Communication and Culture	100	7.5	90	 	68
+Master of Engineering Innovation and Entrepreneurship	80	6.5	80	 	53
+Journalism	105	7.5	90	 	72
+Psychology	100	7.5	90	 	68
+MBA, MBA-MTI, MScM and
+PMDIP -
+-Accounting
+-Canadian Business
+-Enterprise Information Security, Privacy and Data Protection
+-Finance for Social Innovation
+-Financial Analysis
+-Management of Technology and Innovation
+
+100	7.5	90	 	68
+*Other English proficiency scores may be considered on an individual basis
+
+
+
 Trent University logo	Trent University
 1600 West Bank Dr 
 Peterborough ON  K9J 7B8 
