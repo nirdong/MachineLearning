@@ -1,3 +1,19 @@
+1.
+She's a tenacious woman. She never gives up. 
+
+她是个坚毅的人，从不放弃。
+
+2.
+We must learn from the tenacious fighting spirit of Lu Xun. 
+
+我们要学习鲁迅先生韧性的战斗精神.
+
+3.
+He has a tenacious memory. 
+
+他有很强的记忆力.
+
+
 Any expenses you may incur will be chargeable to the company. 
 
 你的所有开销均由本公司支付。
