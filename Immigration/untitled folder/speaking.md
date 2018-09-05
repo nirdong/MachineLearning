@@ -1,4 +1,11 @@
-Describe a talkative person you know 　　You should say: 　　Who he or she is 　　How you got to know him or her 　　What he or she likes to talk about 　　And explain how do you like him or her 
+Describe a talkative person you know 　　
+You should say: 　　
+Who he or she is 　　
+How you got to know him or her 　　
+What he or she likes to talk about 　　
+And explain how do you like him or her 
+
+Actually I just have a talkative friend named Lenney. He was my classmate in southwestern university of finace and economics, where we got bachelors degree of Statistics. Lenny likes talking, he could keep talking with great vigour, even when we were at a long distance running of 6 miles, whereas as I could only be the listener.It seems Talking need energy. Talking also need knowledge. He read a lot books, and have a good memeory, so he could talk academic problems with student from economics, fiance, and even law schools. After 
 
 Actually this topic reminds me of a boy named Jason. I knew Jason from an international exchange program in Chicago University last year. It was my first time got to know him but soon we became good friends. He is a charming boy who is also pretty stout. But what makes him a real popular program in our class is his perfect personality, you know, quite outgoing and approachable. Actually, what I can learn from him is his inter-personal communicative skills. Or, in other words, being talkative. That’s our first time to participate in an English program with so many classmates with many countries. For the first week, I felt hard to get along with my teammates, as I was reluctant to speak to others. But it seemed like Jason was having a great time with his teammates. And I notice that, Jason was glad to talk and share his ideas with others, though he was not always fluent. I wouldn’t say he talked too much, I guess he just made good use all possible opportunities to practice and interact with others which was actually beneficial. At the end of that exchange program, I turned to another person and I guess I should be thankful to Jason because he was the person who really inspired me.
 
