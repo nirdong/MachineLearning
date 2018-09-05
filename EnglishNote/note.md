@@ -1,3 +1,63 @@
+When we were young, we were told that reading was a good habit. In fact, many of us high school students were constantly lectured and nagged about reading, until we saw it as academic matter rather than a good hobby.
+
+I developed the habit at the age of 12 when I began reading what interested me: I fell in love with historical fiction and, of course, read all the Harry Potter books. Now I also read BBC News, Reuters, and The New York Times, and I don’t think I can imagine my daily routine without that hour or so of light extra reading.
+
+Without equivocation, I can say that this extra reading has helped shape my perspectives, enhance my intellect, and make my thinking more dynamic. Moreover, I take pride in the fact I have my own opinion on the many social, political, and cultural issues that I read about. The time I earmark for extra reading on a daily basis has gone a long way in improving my writing too. Not to mention it’s also excellent preparation for the reading demands of college.
+
+Based on my experiences, I feel that the following reasons highlight the vitality of extra reading when you’re in high school:
+
+Doing better in classes—especially AP or advanced courses
+If you are a student taking an AP or other higher-level course in the humanities, I would highly recommend reading beyond the curriculum as a long-term tactic to securing good grades and becoming more proficient and knowledgeable in the subject.
+
+I only came to realize the importance of doing extra reading for my academic work after commencing my IB diploma last year. As I embarked on subjects requiring a lot of critical thinking and analysis, I resolved to read beyond the syllabus so I could evaluate arguments and express myself better in my examinations and assignments.
+
+Additionally, I would encourage you to focus on a specific area you enjoy in the subject so you will be more inclined to read more. This will really help you expound on your arguments and consolidate resources to help you during revisions. Extra reading is especially beneficial in overcoming more challenging parts of a given academic subject area, as you fill in any gaps in your knowledge.
+
+Helping you realize your passion
+Reading about different things in your areas of interest can really help you discern what you would like to do in the future. You uncover and explore new concepts, improving your own personal connection with your subject of interest.
+
+For example, if you are interested in reading about scientific breakthroughs and research, you might read The New York Times’ Science section, HowStuffWorks, or Smithsonian Magazine. National Geographic, Psychology Today, and Futurism are also great sources that offer a vast and diverse mix of articles and essays that are really worth the read, in my opinion.
+
+Pick books, articles, and essays from respected sources that pique your interests. This is what ignited my passion for writing as I began perusing articles and news reports about political relations, economics, and social issues. All my extra reading made me think deeper, and I as absorbed the information I began to formulate my own opinions and political stances.
+
+Improving your writing and communication skills
+Doing extra reading is an essential tool for improving your writing. (Editor’s note: Good writers read. A lot.)
+
+The more you read, the more you can learn from example, as you are exposed to talented writers and expert communicators. Additionally, your extra reading will naturally inspire your own thoughts and perspectives. To express these musings, you could write articles, pitches, letters to editors, and even make videos on those particular issues and topics you have engaged with and read about. This is a fruitful experience for all high school students, regardless of what they wish to study in college, particularly considering the sheer volume of content and knowledge available.
+
+You might also engage with those expert voices directly. Many newsletters, magazines, websites, and newspapers have forums where amateurs and experts can interact. You may even choose to write your own papers and formulate your own primary and secondary sources of data and conduct research, even if it’s at a small scale. Some excellent sources are History Today, The New York Times, TIME Magazine, Concord Review, and the BBC’s World Have Your Say, among many others.
+
+Boosting your confidence
+I feel that the confidence I gained by doing extra reading in high school was what really propelled me to take on many more opportunities. Feeling more informed can help boost your general awareness as you feel more in touch with the world, history, and other developments from geo-politics to innovation and technology.
+
+Extra reading is also surprisingly beneficial for any students engaging with public speaking, like debate team, Model UN, and related activities, where you engage with other high school students. Keeping up to date on current affairs can help you perform well and speak more confidently at these events and take part in rigorous, informed debate with your peers. Your public speaking skills also develop further.
+
+But who has time to read?
+Many students would argue that despite liking to read, finding the time to do “extra” reading is sometimes simply impossible.
+
+That is a fair point; however, I am not asking you to give up the time you spend socializing, texting your friends, or scrolling through your feeds—those few golden hours hold so many of us together and help us maintain our sanities.
+
+I do practice what I preach, though, and I feel that you just have to make that extra effort to find time. Instead of scrolling through your feed when you are bored—you know the times when you’re really bored and not even enjoying your feed—read the news via an app or find an article about that cool scientific discovery your teacher was talking about.
+
+To make extra reading easier, you can even optimize you phone so see your favorite reading apps and get alerts, so you’re more likely to read in your free time.
+
+In this day and age, where globalization has made our world smaller but the knowledge available is so vast, it is more important than ever to take the initiative to become an informed individual. If knowledge is power, why not make yourself stronger?
+
+What do you like to read in your spare time? How has doing extra reading helped you in high school (or beyond)? Leave a comment and let us know—especially your reading recommendations!
+
+Whether it’s fiction or the news, a science blog or a poetry review, a little or a lot, doing extra reading in high school has some serious benefits. One student explains.
+
+
+https://www.collegexpress.com/articles-and-advice/majors-and-academics/blog/why-extra-reading-matters-high-school/
+
+Schuyler sifted through a T-shirt rack until she found a shirt bearing the slogan “Please say sorry 2 me.”
+
+
+https://techcrunch.com/2013/09/27/study-children-reading-fewer-books-down-8-from-2012/
+
+
+
+
 1.
 She's a tenacious woman. She never gives up. 
 
