@@ -1,3 +1,8 @@
+
+
+
+
+
 Describe a talkative person you know 　　
 You should say: 　　
 Who he or she is 　　
@@ -8,7 +13,7 @@ And explain how do you like him or her
 robust physical health and vigo
 
 
-We all have conversations, but some people enjoy talking more than others: those people are talkative. Actually I just have a good friend named Lenny who likes to talk. He was my classmate in southwestern university of finace and economics, where we got bachelors degree of Statistics. Usually talkative people impressed us with their robust physical health and rigor. Lenny could keep talking about his tough childhood without stopping, even when we were at a long distance run of 6 miles around campus, whereas as I could only be the listener. He did a lot of wide range extra reading and has a tanacius memeory. So he could always strick up intereting topics easily, and enjoying sharing his idea with students majoyed in economics, fiance, and even physics. Now he is an invest manager for a venture capital firm. Talking takes up almost half of his working time. He talk to many entrepreneus them to sift possible good projects. He talk to people from the same industry to get new information. He talk to different potential investors to introduce those projects again and again for whole weeks sometime. Too much repeated commercial talks with clear objective made him feel boring, but when we grab a beer at the bar, he seems has no intention of stopping the talk about his girlfriend and new concept read from the recent book to listen my sotries without my interrupting. I finnaly realized that he is not tired of talking itself, he is just tired of working topics. Trivial talks sometimes make people happy. It seems that He still enjoyes talking. 
+We all have conversations, but some people enjoy talking more than others: those people are talkative. Actually I just have a good friend named Lenny who likes to talk. He was my classmate in southwestern university of finace and economics, where we got bachelors degree of Statistics. Usually talkative people impressed us with their robust physical health and rigor. Lenny could keep talking about his tough childhood without stopping, even when we were at a long distance run of 6 miles around campus, whereas as I could only be the listener. He did a lot of wide range extra reading and has a tanacius memeory. So he could always strick up intereting topics easily, and enjoying sharing his idea with students majoyed in economics, fiance, and even physics. Now he is an invest manager for a venture capital firm. Talking takes up almost half of his working time. He talk to many entrepreneus them to sift possible good projects. He talk to people from the same industry to get new information. He talk to different potential investors to introduce those projects again and again for whole weeks sometime. Too much repeated commercial talks with clear objective made him feel boring, but when we grab a beer at the bar, he seems has no intention of stopping the talk about his girlfriend and new concept read from the recent book to listen my sotries without my interrupting. However we are still good friend. The way he talked repeatedly inspired me that speak out what you learn is a good way of studying. I guess I should thank him for providing me a lot of useful infromation and thank him for his trivial talks that make us laugh.  
 
 A person who is talkative likes to talk — she's friendly and ready to gab at all times about just about anything.
 
