@@ -1,3 +1,7 @@
+The bitterness bubbled away and eventually found other ways of manifesting itself.
+
+I observed that the expressions of a dog’s face are mainly manifested by the movement of its eyebrows.
+
 His strength is an inspiration to me in my life... 
 
 他的自信是对我人生的一种鼓舞。
@@ -46,9 +50,22 @@ He packed up his possessions slowly and deliberately.
 The virus needs two weeks to manifest itself. 
 
 这种病毒潜伏两周时间才会发作。
+.
+I'm a bit of a stickler for accuracy. 
 
+我总是要求精确。
+
+2.
+a stickler for punctuality 
+
+非常注重守时的人
+
+3.
+She's a real stickler for etiquette, so you'd better ask her advice. 
+
+她非常讲求礼节, 所以你最好问她的意见.
 it depends on the current stage of development of the country.
-From one aspect expensive car and cloth shows their status which sometime stands for economic and political strength. From another apect, buying expensive car and luxuries cloth   people are more willing to do business with them or buy their products. 
+Sometimes expensive car and cloth shows their status which sometime stands for economic and political strength, though some wealthy people  buy expensive car and luxuries cloth just because they are stickler of perfection. However, as a matter of fact, people are more willing to do business with them or buy their products. 
 
 the first thing that comes/pops to my mind is
 
