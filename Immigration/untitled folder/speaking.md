@@ -1,3 +1,70 @@
+His strength is an inspiration to me in my life... 
+
+他的自信是对我人生的一种鼓舞。
+
+3
+N-UNCOUNT 强度
+The strength of an object or material is its ability to be treated roughly, or to carry heavy weights, without being damaged or destroyed.
+He checked the strength of the cables. 
+
+他检查了一下钢索的强度。
+
+...the properties of a material, such as strength or electrical conductivity. 
+
+一种材料的特性，比如强度或导电性
+
+4
+N-UNCOUNT 实力;影响力
+The strength of a person, organization, or country is the power or influence that they have.
+America values its economic leadership, and the political and military strength that goes with it... 
+
+美国重视其经济领导地位以及随之产生的政治和军事实力。
+
+The Alliance in its first show of strength drew a hundred thousand-strong crowd to a rally... 
+
+该联盟的第一次实力展示便吸引了 10 万余众参加集会。
+whisk
+
+
+
+故意；蓄意；存心 
+done in a way that was planned, not by chance
+
+同义词： intentionally, on purpose
+She's been deliberately ignoring him all day.
+
+她故意整天都不理他。
+
+2
+不慌不忙地；小心翼翼地；从容不迫地 
+slowly and carefully
+
+He packed up his possessions slowly and deliberately.
+
+他慢慢地、小心翼翼地收拾好自己的物品。
+
+The virus needs two weeks to manifest itself. 
+
+这种病毒潜伏两周时间才会发作。
+
+it depends on the current stage of development of the country.
+From one aspect expensive car and cloth shows their status which sometime stands for economic and political strength. From another apect, buying expensive car and luxuries cloth   people are more willing to do business with them or buy their products. 
+
+the first thing that comes/pops to my mind is
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1. Do you like going boating?
 For sure I like it. 
 
