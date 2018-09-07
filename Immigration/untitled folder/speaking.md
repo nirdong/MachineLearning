@@ -1,3 +1,32 @@
+In the winter, when the air pollution is serious, those people who instinctively desire to breath fresh and clean air have to resort to the air clearner 
+
+
+His punishing work schedule had made him resort to drugs. 
+
+异常紧张的工作安排使他开始吸毒。
+
+2.
+They are prepared to resort to violence in support of their beliefs. 
+
+他们准备诉诸暴力来捍卫自己的信仰.
+
+3.
+Don't resort to cheap copies; save up for the real thing. 
+
+别买廉价的仿冒品，攒点钱买正品吧。
+
+This year, the government took the surprising step of closing the bay to tourists for four months, from June 1 to September 30, to embark on a rejuvenation project that includes coral restoration work and the installation of a new jetty.
+
+1.
+The fears have prompted several countries to embark on massive armament plans. 
+
+几个国家开始实施大规模的军备计划，以防患于未然。
+
+2.
+Redundancy is the spur for many to embark on new careers. 
+
+裁员促使很多人开始从事新事业。
+
 DESCRIBE A LEISURE FACILITY YOU WOULD LIKE TO HAVE IN YOUR HOMETOWN
 What is it
 Where is it
