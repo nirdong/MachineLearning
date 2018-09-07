@@ -1,3 +1,22 @@
+DESCRIBE A LEISURE FACILITY YOU WOULD LIKE TO HAVE IN YOUR HOMETOWN
+What is it
+Where is it
+When you go there
+And how you feel about it.  
+
+I would like a big lawn in my hometown, which should be as big as three soccer pitch. My hometown is Chengdu, which is a metropolis in China. We have various leisure facilities such as theatre, cenima, gyms and swimming pools for people with differen hobby or interest. And plenty of small garden squares throughout downtown area,  you can find older people sit on the bench and look at their grandchild riding bicycle around, but those squares are too small and there are too much trees. When you go for a walk there, you will feel constrain in space, and your line of sight will be obstructed, especially when you find the squre is in the jungle of concrete building.    
+
+
+He was dazzled by the gaiety and splendour of the metropolis. 
+
+大都市的花花世界使他感到眼花缭乱.
+
+2.
+Shanghai is a metropolis in China. 
+
+上海是中国的大都市。
+
+
 In the lunar calendar, we call de
 
 Sometimes, it's hard for directors to shoot their imaginary event or scence by the regular ways, the  
