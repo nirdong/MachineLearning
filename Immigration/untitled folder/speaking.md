@@ -1,4 +1,6 @@
-Sometimes, it's hard for directors to shoot their imagined event or scence by the regular ways, the  
+In the lunar calendar, we call de
+
+Sometimes, it's hard for directors to shoot their imaginary event or scence by the regular ways, the  
 special effects solved those problem, especially for those effects-heavy science-fiction films.
 
 
@@ -30,12 +32,16 @@ America values its economic leadership, and the political and military strength 
 
 The Alliance in its first show of strength drew a hundred thousand-strong crowd to a rally... 
 
-该联盟的第一次实力展示便吸引了 10 万余众参加集会。
+
 whisk
 
+In her spare time she read books on cooking. 
 
+业余时间里她看一些烹饪方面的书籍。
 
-故意；蓄意；存心 
+2.
+He spends his spare time visiting schools to warn pupils off drug
+
 done in a way that was planned, not by chance
 
 同义词： intentionally, on purpose
