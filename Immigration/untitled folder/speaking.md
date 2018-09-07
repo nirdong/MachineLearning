@@ -1,3 +1,7 @@
+Sometimes, it's hard for directors to shoot their imagined event or scence by the regular ways, the  
+special effects solved those problem, especially for those effects-heavy science-fiction films.
+
+
 The bitterness bubbled away and eventually found other ways of manifesting itself.
 
 I observed that the expressions of a dog’s face are mainly manifested by the movement of its eyebrows.
