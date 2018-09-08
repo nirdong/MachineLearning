@@ -1,3 +1,7 @@
+In 2004, a similar shaped vortex was photographed on the planet's south pole.The second vertex became visible when the north hemishpere entered summer.
+
+Scientists say this hexagon spotted on the Saturn's north pole is a high-altitude vortex.  
+
 In the winter, when the air pollution is serious, those people who instinctively desire to breath fresh and clean air have to resort to the air clearner 
 
 
