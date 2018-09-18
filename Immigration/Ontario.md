@@ -193,8 +193,9 @@ https://www.ontario.ca/page/ontario-universities
 
 ### u windsor
 
-http://www.uwindsor.ca/graduate-studies/334/mathematics-and-statistics
-
+http://www.uwindsor.ca/graduate-studies/334/mathematics-and-statisticsar
+department link
+http://web4.uwindsor.ca/units/registrar/calendars/graduate/cur.nsf/982f0e5f06b5c9a285256d6e006cff78/f8d9cdc601515094852572bf00612711%21OpenDocument
 
 ### trenut  big data analytics
 
