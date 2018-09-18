@@ -186,6 +186,8 @@ Admissions: 416-736-5000
 Fax: 416-736-5536
 www.yorku.ca
 http://mathstats.info.yorku.ca/gradprogram/ma-program/
+http://futurestudents.yorku.ca/graduate/programs/mathematics-and-statistics
+
 
 
 ### university in ontario
