@@ -121,7 +121,9 @@ Admissions: 519-888-4567 ext 33106
 Fax: 519-746-2882
 www.uwaterloo.ca
 https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-statistics
-
+7.5;
+writing 7.0;
+speaking 7.0
 
 University of Windsor logo	University of Windsor 
 401 Sunset Ave 
