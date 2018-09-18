@@ -141,11 +141,28 @@ Admissions: 519-661-2100
 Fax: 519-661-3388
 
 www.westernu.ca
+
+
 master of data analytic
 http://grad.uwo.ca/admissions/programs/program.cfm?p=272
-data 专业雅思要求高最低6.5 需要7分。
-master of statistics
+https://www.uwo.ca/mda/faq/index.html
 
+
+When English is a student's second language, an English Language Proficiency Score may be required (see Exemptions). The requirements for MDA program admission exceed the standard university requirement for graduate level studies because students in the MDA Program are called upon to exercise their communication skills frequently through class discussions, written assignments, group work and oral presentations. A strong command of the English language in all areas (oral, reading, writing, listening, comprehension) is required for success in this dynamic, fast-paced environment. Students must be prepared to complete reading and writing assignments within short time frames as well as contribute productively to discussions in class without advanced or comprehensive exposure to materials presented. Group work and participation in class demands strong listening skills and comprehension of the language at an advanced level.
+
+Applicants whose first language is not English must furnish evidence of their proficiency in the use of the English language by meeting one of the requirements listed below within the last two years:
+
+The Test of English as a Foreign Language (TOEFL).
+The TOEFLiBT (internet-based) minimum overall score of 94 includes a Read and Listen minimum score 22, speak minimum score 26 and write minimum score 24.
+The TOEFL-PBT (paper-based) has a minimum acceptable score of 587, which includes: Reading minimum score 56, listening minimum score 56, written expression minimum 61.
+The International English Language Testing Service (IELTS) of the British Council: Minimum overall score: 7 out of 9, with no individual score less than 6.5. The IELTS is offered in 6 test centres in the US and 3 in Canada.
+The Michigan English Language Assessment Battery (MELAB) of the University of Michigan: Minimum score of 80 on each section and an overall score of at least 85. Arrangements to write MELAB may be made online.
+The Canadian Academic English Language Assessment (CAEL Assessment): at least 60. The CAEL Assessment is offered in several countries throughout the world as well as Canada.
+Culture Works: Successful completion of the High-Advanced level. Official proof of graduation required.
+Fanshawe College ESL Program: Graduation from Level 5, Advanced Academic Preparation, with a minimum 80% in all components. Official proof of graduation required.
+
+
+master of statistics
 http://grad.uwo.ca/admissions/programs/program.cfm?p=140
 雅思要求6分
 
