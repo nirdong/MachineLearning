@@ -201,8 +201,8 @@ http://web4.uwindsor.ca/units/registrar/calendars/graduate/cur.nsf/982f0e5f06b5c
 
 https://www.trentu.ca/amod/program/big-data-analytics-msc
 
-
-
+似乎可以不要雅思成绩
+https://www.trentu.ca/futurestudents/international/requirements/english-proficiency
 
 
 
