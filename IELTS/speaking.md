@@ -1,3 +1,10 @@
+raking
+英 ['reɪkɪŋ]  美 ['reɪkɪŋ] 
+n.粗筛；
+v.搜索( rake的现在分词 )； 以耙子耙平（泥土等）； 用耙子把…耙在一起； （翻阅旧记录、文件等以）搜寻事实等
+
+
+
 In 2004, a similar shaped vortex was photographed on the planet's south pole.The second vertex became visible when the north hemishpere entered summer.
 
 Scientists say this hexagon spotted on the Saturn's north pole is a high-altitude vortex.  
