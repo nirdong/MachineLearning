@@ -55,39 +55,6 @@ Applicants must have the minimum score in each test, as well as the minimum over
 
 
 
-
-
-Ryerson University logo	Ryerson University 
-350 Victoria St 
-Toronto ON  M5B 2K3 
-Telephone: 416-979-5000 
-Admissions: 416-979-5036
-Fax: 416-979-5221
-www.ryerson.ca
-https://www.ryerson.ca/graduate/datascience/admission/requirements/
-
-
-Academic Program	TOEFL (IBT)	IELTS- Academic	MELAB	CAEL	PTE
-General Requirement	93	7.0	85	70	63
-Computer Networks	80	6.5	80	 	53
-Communication and Culture	100	7.5	90	 	68
-Master of Engineering Innovation and Entrepreneurship	80	6.5	80	 	53
-Journalism	105	7.5	90	 	72
-Psychology	100	7.5	90	 	68
-MBA, MBA-MTI, MScM and
-PMDIP -
--Accounting
--Canadian Business
--Enterprise Information Security, Privacy and Data Protection
--Finance for Social Innovation
--Financial Analysis
--Management of Technology and Innovation
-
-100	7.5	90	 	68
-*Other English proficiency scores may be considered on an individual basis
-
-
-
 Trent University logo	Trent University
 1600 West Bank Dr 
 Peterborough ON  K9J 7B8 
