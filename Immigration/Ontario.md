@@ -182,12 +182,24 @@ York University logo	York University
 4700 Keele St 
 Toronto ON  M3J 1P3 
 Telephone: 416-736-2100 
+
+
+
+
 Admissions: 416-736-5000
 Fax: 416-736-5536
 www.yorku.ca
 http://mathstats.info.yorku.ca/gradprogram/ma-program/
 http://futurestudents.yorku.ca/graduate/programs/mathematics-and-statistics
-
+MINIMUM TOEFL (PAPER-BASED)	550
+MINIMUM TOEFL (INTERNET-BASED)	79-80
+IELTS (ACADEMIC MODULE)	6.5
+YORK ENGLISH LANGUAGE TEST (YELT)	Band 6
+YUELI	Level 6 with Pass
+MELAB	Overall score of 80, no component score less than 80
+CAEL	Overall score of 60, no component score less than 60
+MINIMUM CPE SCORE	C1
+MINIMUM CAE SCORE	C
 
 
 ### university in ontario
