@@ -204,7 +204,7 @@ https://www.trentu.ca/amod/program/big-data-analytics-msc
 似乎可以不要雅思成绩
 https://www.trentu.ca/futurestudents/international/requirements/english-proficiency
 
-
+The Big Data Analytics Stream is a Master’s of Science degree focusing on the rapidly growing field of data science. A professional program that can normally be completed 16 months, this exciting new stream prepares graduates with the tools and techniques they need to work with, and understand big data.  
 
 
 
