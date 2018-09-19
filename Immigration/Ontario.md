@@ -24,7 +24,7 @@ Fax: 905-527-1105
 www.mcmaster.ca
 https://www.math.mcmaster.ca/index.php/graduate-studies/application-procedure.html
 
-OEFL: minimum score of 92 (internet based), 237 (computer based) or 580 (paper based), minimum of 20 per band; for the Faculty of Engineering a minimum score of 88 (internet based) or 213 on the (computer based) or 550 (paper based)
+TOEFL: minimum score of 92 (internet based), 237 (computer based) or 580 (paper based), minimum of 20 per band; for the Faculty of Engineering a minimum score of 88 (internet based) or 213 on the (computer based) or 550 (paper based)
 IELTS (Academic): minimum overall score of 6.5, with at least 5.5 in each section
 
 
@@ -167,6 +167,13 @@ Fanshawe College ESL Program: Graduation from Level 5, Advanced Academic Prepara
 master of statistics
 http://grad.uwo.ca/admissions/programs/program.cfm?p=140
 雅思要求6分
+The Test of English as a Foreign Language (TOEFL). Minimum acceptable score is 213 for the standard electronic version, 550 for the paper and pencil version, or 86 for the internet version with no individual score below 20. [Western's TOEFL ID is 0984].
+The International English Language Testing Service (IELTS). Minimum acceptable score is 6 out of 9 with no individual score falling below 6.
+The Michigan English Language Assessment Battery (MELAB). Minimum acceptable score is 80 on each section and an overall score of 85.
+The Canadian Academic English Language Assessment (CAEL Assessment). Minimum acceptable score is 60 overall.
+
+
+
 
 Wilfrid Laurier University logo	Wilfrid Laurier University 
 75 University Ave W 
