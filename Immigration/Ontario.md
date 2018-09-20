@@ -13,6 +13,8 @@ To present an official overall score of 70 on the Canadian Academic English Lang
 To present an official Test of English as a Foreign Language (TOEFL) score of 580 on the paper-based test (PBT), or an overall score of 86 on the internet-based test (IBT) with a minimum score in each component of: writing-22; speaking-22; reading-20; and listening-20; or
 To present an official overall International English Language Testing System (IELTS) score of 6.5, with a minimum of 6.0 in each band score; or
 
+Fall 2019 (begins September 1) -- Deadline is March 01, 2019  to be considered for funding and July 31, 2019 to be considered for admission and funding if space and funds remain
+
 ###
 
 McMaster University logo	McMaster University 
@@ -27,7 +29,7 @@ https://www.math.mcmaster.ca/index.php/graduate-studies/application-procedure.ht
 TOEFL: minimum score of 92 (internet based), 237 (computer based) or 580 (paper based), minimum of 20 per band; for the Faculty of Engineering a minimum score of 88 (internet based) or 213 on the (computer based) or 550 (paper based)
 IELTS (Academic): minimum overall score of 6.5, with at least 5.5 in each section
 
-
+ February 1, 2019
 
 
 
@@ -77,7 +79,6 @@ Admissions: 519-821-2130
 Fax: 519-766-9481
 www.uoguelph.ca
 
-
 https://www.uoguelph.ca/graduatestudies/sites/uoguelph.ca.graduatestudies/files/public/Mathematics%20and%20Statistics_website_AODA.pdf
 est
 Minimum Overal Score
@@ -88,6 +89,9 @@ Pearson Test of English Academic (PTE-A)
 Note: A minimum score of 60 must be achieved in each individual component.	60
 Test of English as a Foreign Language (TOEFL Internet-based test (iBT))
 Note: A minimum score of 21 must be achieved in each of the four categories (listening, speaking, reading, writing).	89
+
+Application Deadline:
+February 15, 2018
 
 
 University of Ottawa logo	University of Ottawa 
@@ -124,6 +128,8 @@ https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-s
 7.5;
 writing 7.0;
 speaking 7.0
+Application deadline: February 1
+
 
 University of Windsor logo	University of Windsor 
 401 Sunset Ave 
