@@ -199,7 +199,17 @@ The Test of English as a Foreign Language (TOEFL). Minimum acceptable score is 2
 The International English Language Testing Service (IELTS). Minimum acceptable score is 6 out of 9 with no individual score falling below 6.
 The Michigan English Language Assessment Battery (MELAB). Minimum acceptable score is 80 on each section and an overall score of 85.
 The Canadian Academic English Language Assessment (CAEL Assessment). Minimum acceptable score is 60 overall.
+English Language Proficiency
+Applicants whose first language is not English must furnish evidence of their proficiency in the use of the English language:
 
+The Test of English as a Foreign Language (TOEFL). Minimum acceptable score is 213 for the standard electronic version, 550 for the paper and pencil version, or 86 for the internet version with no individual score below 20. [Western's TOEFL ID is 0984].
+The International English Language Testing Service (IELTS). Minimum acceptable score is 6 out of 9 with no individual score falling below 6.
+The Michigan English Language Assessment Battery (MELAB). Minimum acceptable score is 80 on each section and an overall score of 85.
+The Canadian Academic English Language Assessment (CAEL Assessment). Minimum acceptable score is 60 overall.
+Application Dates
+February 15 - International Applicants
+
+August 15 - Domestic Applicants
 
 
 
@@ -251,6 +261,19 @@ https://www.ontario.ca/page/ontario-universities
 http://www.uwindsor.ca/graduate-studies/334/mathematics-and-statisticsar
 department link
 http://web4.uwindsor.ca/units/registrar/calendars/graduate/cur.nsf/982f0e5f06b5c9a285256d6e006cff78/f8d9cdc601515094852572bf00612711%21OpenDocument
+
+Deadline for Fall: February 1. 
+
+Note: there is only a Fall intake for this program.
+
+Minimum TOEFL: IBT-83
+
+Minimum IELTS: 6.5
+
+Minimum Pearson: 65
+
+
+
 
 ### trenut  big data analytics
 
