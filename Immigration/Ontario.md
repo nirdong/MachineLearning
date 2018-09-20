@@ -71,6 +71,12 @@ CAEL (Canadian Academic English Language Test) – alternate test only for appli
 MELAB (Michigan English Language Assessment Battery). The minimum acceptable score is 85, with no part below 80.
 IELTS Academic (International English language Testing Services). The minimum acceptance score is 6.5, with no band below 6.0.
 
+Although the official February 1st deadline for research based programs has passed, some programs are still open for applications. Please contact the program for confirmation, before applying. **Please note closed programs above.
+Although the official March 1st deadline for professional and diploma programs has passed, applications are still being accepted for some programs. **Please note closed programs above.
+Some programs may have higher admission requirements. Check with individual programs before applying. Refer to the Admissions Requirements page.
+For Graduate programs starting in May or January, applicants are strongly encouraged to contact the program prior to completing their online application.
+
+
 University of Guelph logo	University of Guelph 
 50 Stone Rd E 
 Guelph ON  N1G 2W1 
