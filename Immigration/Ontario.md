@@ -104,6 +104,22 @@ www.uottawa.ca/welcome.html
 https://www.uottawa.ca/en/apply
 https://catalogue.uottawa.ca/en/graduate/master-science-mathematics-statistics-concentration-statistics/
 
+Proof of proficiency in your program's language of instruction, in the case of applicants whose first language is neither English nor French
+Language proficiency test scores equivalencies: :
+TOEFL 550 / IELTS Overall 6.5 - Individual 5.0 (Paper-based)
+TOEFL 79-80 / IELTS Overall 6.5 - Individual 5.0 (Internet-based)
+
+
+Application Deadline
+Fall
+Winter
+Summer
+Canadian Students:	March 01	December 01	January 01
+International Students:	March 01	August 01	January 01
+
+
+Applicants who lack the required undergraduate preparation may be admitted to a qualifying-year program. The basis for admission to the qualifying year of the master’s program will normally be an honours degree in a related discipline with a B average (70%), provided that the honours program in question includes the equivalent of three years of an honours computer science program. A major degree holder with superior academic standing may be considered for admission to the qualifying year with suitable background preparation.
+
 
 University of Toronto	University of Toronto 
 27 King's College Circle 
@@ -213,6 +229,10 @@ MELAB	Overall score of 80, no component score less than 80
 CAEL	Overall score of 60, no component score less than 60
 MINIMUM CPE SCORE	C1
 MINIMUM CAE SCORE	C
+
+
+February 14, 2018 (Full-time Entry - Fall entry only)
+
 
 
 ### university in ontario
