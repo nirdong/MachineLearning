@@ -222,6 +222,7 @@ Fax: 519-884-8826
 www.wlu.ca
 https://wlu.ca/programs/science/graduate/mathematics-msc/application-checklist/index.html
 Applied Computing (MAC)
+March 31, 2019. 
 
 York University logo	York University 
 4700 Keele St 
