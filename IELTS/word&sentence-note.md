@@ -15,6 +15,20 @@ soluble
 英 [ˈsɒljəbl]  美 [ˈsɑljəbl] 
 
 
+I don't think we should have been there in the first place. 
+
+我认为我们从一开始就不该在那儿。
+
+2.
+I'm amazed they had the cheek to ask in the first place. 
+
+我真惊讶他们当初竟然有脸问。
+
+3.
+What brought you to Washington in the first place? 
+
+最初是什么让你来到华盛顿的？
+
 
 raking
 英 ['reɪkɪŋ]  美 ['reɪkɪŋ] 
