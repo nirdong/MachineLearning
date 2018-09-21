@@ -1,3 +1,13 @@
+coveting 垂涎
+
+is rid of 
+
+prudent 谨慎
+
+prevail 说服 流行
+predicament 困境
+
+
 crepuscular 黄昏的
 circadian 生理节奏的
 melatonin 褪黑素
