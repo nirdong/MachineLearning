@@ -1,4 +1,18 @@
 .
+Don't stray from the point. 
+
+不要离题乱扯.
+
+2.
+Please don't stray from the subject. 
+
+请不要离开本题.
+
+3.
+Young children should not be allowed to stray from their parents. 
+
+不要让儿童离开父母到处乱跑.
+.
 The factory don't have that capacity to ramp up. 
 
 这家工厂没有能力加速生产.
