@@ -1,3 +1,28 @@
+PHRASAL VERB 保持镇定；克制自己；振作起来
+If you are upset or depressed and someone tells you to pull yourself together, they are telling you to control your feelings and behave calmly again.
+Pull yourself together, you stupid woman!... 
+
+冷静点，你这个蠢女人！
+
+He pulled himself together, as always, by throwing himself back into his work.
+
+他和往常一样，重新投入工作使自己振作了起来。
+
+
+
+
+in fits and starts
+In short, inconsistent, and irregular intervals, as of motion or progress. The car was almost completely broken down, but, in fits and starts, we were able to get it to a mechanic. A: "How's the essay coming along?" B: "Oh, in fits and starts."
+See also: and, fit, start
+Farlex Dictionary of Idioms. © 2015 Farlex, Inc, all rights reserved.
+in fits and starts
+COMMON If something happens or is done in fits and starts, it does not happen continuously, but stops and then starts again many times. The employment picture had been improving in fits and starts during the past several months. Denise's career plans can only proceed in fits and starts. Note: You can also say that something happens or is done by fits and starts. The author does not maintain a clear narrative line, but proceeds by fits and starts.
+See also: and, fit, start
+Collins COBUILD Idioms Dictionary, 3rd ed. © HarperCollins Publishers 2012
+in (or by) fits and starts with irregular bursts of activity.
+See also: and, fit, start
+Farlex Partner Idioms Dictionary © Farlex 2017
+in ˌfits and ˈstarts not steadily; often starting and stopping: ‘How’s the book?’ ‘Oh, I’m working on it in fits and starts. I sometimes wonder if I’ll ever finish it.’ ♢ He made progress in fits and starts at first but now he’s improving rapidly.
 .
 Don't stray from the point. 
 
