@@ -1,3 +1,14 @@
+# python
+## txt
+test_image = 'dafs'
+out_file = open('%s.txt'%(test_image), 'w')
+out_file.write("w" )
+out_file.write(' ')
+out_file.write('u')
+out_file.write("w")
+
+
+
 # ubuntu
 ## acitvate tf
 source activate tf
@@ -14,13 +25,17 @@ Bgpinc#2020a
 ls -l | grep "^-" | wc -l
 # 拷贝
 sudo cp -r  /home/Data/xieyouqu /home/dnie
-\cp -rf /home/dnie/df/Annotations/. /home/dnie/df/result
+cp -rf /home/dnie/df/Annotations/. /home/dnie/df/result
 # 删除
 rm -f Annotations/label_correction.ipynb
 
 # tensorflow
 ## tensorbard
 tensorboard --logdir=./train --port=6007
+
+
+
+
 
 
 远程登录：
